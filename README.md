@@ -19,7 +19,7 @@
 
 - 📫 You can reach me at **bhoot.biswas@gmail.com**
 
-- ⚡ If I **had to live in another country, I would choose Poland.**
+- ⚡ If I had to live in another country, **I would choose Poland.**
 
 
 <h3 align="left">Languages and Tools:</h3>
